@@ -9,3 +9,6 @@ Technologies Used 🛠️
 
 Frontend: HTML, CSS, JavaScript
 
+Live Server Link :
+
+https://sathwik-g12.github.io/furniturerentalclone/
